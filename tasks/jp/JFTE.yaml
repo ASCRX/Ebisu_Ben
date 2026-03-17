@@ -11,7 +11,7 @@ generation_kwargs:
     - "@@"
   do_sample: false
   temperature: 0.0
-  max_gen_toks: 256
+  max_gen_toks: 1024
 
 metric_list:
   - metric: term_hr
